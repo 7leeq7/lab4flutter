@@ -1,6 +1,6 @@
-# flutter_application_1
+# Flutter lab 4, ПМИС
 
-A new Flutter project.
+Лабораторная работа номер 4 по предмету ПМИС для выставления автомата на зачете!
 
 ## Getting Started
 
